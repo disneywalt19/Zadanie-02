@@ -1,0 +1,2 @@
+Dziêki, wszystko dzia³a super.
+Zamiast funkcji "generate_collection($quantity)" mo¿na u¿yæ "range(1,49)", ale to jedynie drobna uwaga.

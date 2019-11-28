@@ -1,0 +1,11 @@
+Zadanie 2.
+
+
+Na podanej stronie http://app.lotto.pl/wyniki/?type=dl znajdują się najnowsze wyniki lotto. 
+
+Należy napisać skrypt PHP, który pobierze te dane. 
+Na górze strony należy wyświetlić je w tabelce (1 rząd, 6 kolumn, obramowanie w kolorze #5B0047, tylko liczby bez daty). 
+Pod tabelką proszę podać sumę wszystkich liczb oraz ich średnią.
+
+Poniżej należy wylosować 6 liczb z 49 na kolejne losowanie lotto. Liczby nie mogą się powtarzać! (jak to w losowaniu).
+
